@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnhookingNtdll_disk", "UnhookingNtdll_disk.vcxproj", "{4DE43724-3851-4376-BB6C-EA15CF500C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE43724-3851-4376-BB6C-EA15CF500C44}.Debug|x64.ActiveCfg = Debug|x64
+		{4DE43724-3851-4376-BB6C-EA15CF500C44}.Debug|x64.Build.0 = Debug|x64
+		{4DE43724-3851-4376-BB6C-EA15CF500C44}.Debug|x86.ActiveCfg = Debug|Win32
+		{4DE43724-3851-4376-BB6C-EA15CF500C44}.Debug|x86.Build.0 = Debug|Win32
+		{4DE43724-3851-4376-BB6C-EA15CF500C44}.Release|x64.ActiveCfg = Release|x64
+		{4DE43724-3851-4376-BB6C-EA15CF500C44}.Release|x64.Build.0 = Release|x64
+		{4DE43724-3851-4376-BB6C-EA15CF500C44}.Release|x86.ActiveCfg = Release|Win32
+		{4DE43724-3851-4376-BB6C-EA15CF500C44}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF628C74-883F-4C27-8F94-42AC835E1D1B}
+	EndGlobalSection
+EndGlobal
